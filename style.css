@@ -311,14 +311,15 @@
 }
 .inbox32{
     margin-left:20px;
+    margin-top: 5PX;
 }
 .lorem1{
     text-align: center;
-    padding: 40px;
+    padding:0px;
 }
 .google1{
     border-radius: 100%;
-    margin-left:10px;
+    margin-left:15px;
 }
 .inbox31{
     margin-left:40px;
