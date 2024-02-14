@@ -1,0 +1,368 @@
+.inbox{
+    /* background-color: rgb(243, 197, 13) ; */
+     height: 400px;
+}
+.sec{
+    background-image: url(sid.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom:40px;
+}
+.nav{
+    color: black;
+    font-weight:bold;
+}
+.nav:hover{
+    color:hsl(42.03deg 89.02% 50%);
+}
+.picachu{
+    color:hsl(42.03deg 89.02% 50%);
+    font-size:50px;
+    font-weight: bold;
+}
+.inbox1{
+    background-color: rgba(0, 0, 0, 0.624);
+    margin-bottom:40px;
+    padding: 30px;
+    min-height:250px ;
+
+}
+.luttappi{
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
+.bi1{
+    color:hsl(42.03deg 89.02% 50%) ;
+    font-size: 40px;
+}
+.mayavi{
+    color: rgba(243, 243, 243, 0.917);
+}
+.sec2{
+    background-color: white;
+    margin-top:30px;
+}
+.sec1{
+    background-color: rgb(255, 255, 255);
+}
+.star1{
+    font-weight: bold;
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 30px;
+    font-size:30px;
+}
+.moon{
+    background-color: hsl(42.03deg 89.02% 50%);
+    width: 60px;
+    height:10px;
+    margin:auto;
+}
+.pra{
+    text-align: center;
+    margin-top: 20px;
+}
+.inbox3{
+    background-image:url(pexels.webp);
+    background-size: cover;
+    height: 500px;
+
+}
+.mor{
+    text-decoration: none;
+    font-size: 15px;
+    color:rgb(255, 255, 255) ;
+    /* display: inline-block; */
+    border:2px solid hsl(42.03deg 89.02% 50%);
+    height: 40px;
+    width:140px;
+    padding:5px 35px ;
+}
+.inbox6{
+    background-color: rgba(0, 0, 0, 0.105);
+    margin:40px 0px 0px 0px;
+    text-align: center;
+    padding:30px ;
+}
+.mor1{
+    background-color:hsl(42.03deg 89.02% 50%) ;
+    text-decoration: none;
+    font-size:20px;
+    height:40px;
+    width:140px;
+    padding:5px 35px ;
+    color: white;
+}
+.secound{
+    color: rgb(241 241 241);
+    text-align: center;
+}
+.sec2{
+    background-color:hsl(0deg 0% 94.51%) ;
+    padding: 50px;
+}
+.sec5{
+    background-color:hsl(0deg 0% 94.51%) ;
+    padding-bottom: 50px;
+}
+.sure{
+    font-weight: bold;
+}
+.lorem{
+    color: rgba(0, 0, 0, 0.575);
+}
+.bi2{
+    color:hsl(42.03deg 89.02% 50%);
+}
+.inbox11{
+    text-align: center;
+}
+.inbox12{
+    background-color:hsl(42.03deg 89.02% 50%) ;
+    color: white;
+    text-align: center;
+    padding:20px 5px 30px 5px;
+}
+.inbox15{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding:20px 5px 30px 5px;
+    background-color: white;
+}
+.wood{
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top:40px;
+}
+.inbox8{
+    margin-bottom: 20px;
+    text-align: right;
+}
+.zero{
+    text-align: center;
+}
+.sec3{
+    background-image: url(computer.avif);
+    background-size: cover;
+    /* height: 300px; */
+}
+.bi3{
+   color: hsl(42.03deg 89.02% 50%);
+   font-size:50px;
+}
+.a{
+    color: white;
+    font-size: 60px;
+}
+.b{
+    color: hsl(42.03deg 89.02% 50%);
+}
+.star{
+    font-weight: bold;
+}
+.opacity{
+    background-color: rgba(0, 0, 0, 0.817);
+}
+.inbox18{
+    text-align: center;
+    padding: 40px;
+}
+.sec4{
+    background-color: white;
+    margin-top:40px;
+    padding:50px;
+}
+.inbox19{
+    background-color: hsl(42.03deg 89.02% 50%);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding:10px;
+    margin-bottom:15px;
+}
+.inbox20{
+    padding: 10px;
+}
+.table{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size:50px;
+}
+.sample{
+    text-align: center;
+}
+.inbox21{
+    background-color:rgba(255, 170, 0, 0.46);
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    margin-top:20px;
+}
+.bi5{
+    font-size: 40px;
+}
+.number{
+    font-size: 40px;
+}
+.inbox22{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    background-color:hsla(42, 89%, 50%, 0.908) ;
+    margin-top: 20px;
+}
+.inbox23{
+    margin-top: 20px;
+    text-align: center;
+}
+.inbox24{
+    text-align: center;
+    padding:30px;
+    background-color:rgba(255, 204, 0, 0.101) ;
+}
+.inbox25{
+    text-align: center;
+    padding:30px;
+}
+.buy1{
+    background-color:rgba(255, 170, 0, 0.46) ;
+    color: black;
+    text-decoration: none;
+    font-size:20px;
+    padding:10px 30px ;
+}
+.buy2{
+    background-color:hsla(42, 89%, 50%, 0.908) ;
+    color: white;
+    text-decoration: none;
+    font-size:20px;
+    padding:10px 30px ;
+}
+
+.buy3{
+    background-color:hsla(42, 89%, 50%, 0.908) ;
+    color: white;
+    text-decoration: none;
+    font-size:20px;
+    width:140px;
+    padding:10px 30px ;
+}
+.sec6{
+    background-image: url(mayavi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+}
+.inbox26{
+    text-align: center;
+    color: white;
+    font-weight:bold;
+    font-size: 50px;
+}
+.from{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.inbox27{
+    background-color: rgb(255, 255, 255);
+    margin-bottom:40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+    text-align: center;
+    font-weight: bold;
+}
+.google{
+    border-radius:100%;
+    margin-bottom: 15px;
+}
+.view{
+    text-decoration: none;
+    font-size: 15px;
+    color:rgb(255, 255, 255) ;
+    /* display: inline-block; */
+    border:4px solid hsl(0, 0%, 100%);
+    height: 50px;
+    width:100px;
+    padding:10px 35px ;
+    font-weight: bold;
+    font-size: 20px;
+}
+.inbox28{
+    text-align: center;
+}
+.sec7{
+    background-color:hsla(0, 0%, 95%, 0.56);
+    padding: 30px;
+}
+.rwocs{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    padding: 35px;
+}
+.inbox29{
+    background-color: rgb(255, 255, 255);
+    border-radius:10px;
+    margin: 5px ;
+    padding:40px;
+}
+.inbox32{
+    margin-left:20px;
+}
+.lorem1{
+    text-align: center;
+    padding: 40px;
+}
+.google1{
+    border-radius: 100%;
+    margin-left:10px;
+}
+.inbox31{
+    margin-left:40px;
+}
+.view0{
+    text-align: center;
+}
+.sec8{
+    background-image: url(sss.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.inbox33{
+    background-color: white;
+    text-align: center;
+    padding: 35px 45px;
+    margin-top: 70px;
+}
+.inbox34{
+    background-color:hsla(42, 89%, 50%, 0.908) ;
+    color: white;
+    text-align: center;
+    padding: 35px 45px;
+    margin-top: 70px;
+}
+.bi6{
+    font-size: 40px;
+    color:hsla(42, 89%, 50%, 0.908) ;
+}
+.bi7{
+    font-size: 40px;
+    color:white;
+}
+.sec9{
+    background-color: black;
+}
+.last{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+
